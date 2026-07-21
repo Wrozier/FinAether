@@ -1,4 +1,4 @@
-package com.tc.finaether
+package com.tc.finaether.ui.screens
 
 import android.os.Build
 

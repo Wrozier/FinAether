@@ -1,6 +1,5 @@
-package com.tc.finaether
+package com.tc.finaether.ui.screens
 
-import com.tc.finaether.ui.screens.Platform
 import platform.UIKit.UIDevice
 
 class IOSPlatform: Platform {

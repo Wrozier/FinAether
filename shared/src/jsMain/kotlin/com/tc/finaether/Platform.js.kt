@@ -1,5 +1,6 @@
 package com.tc.finaether
 
+import com.tc.finaether.ui.screens.Platform
 import web.navigator.navigator
 
 class JsPlatform: Platform {
